@@ -1,3 +1,7 @@
+## Click the image to see a live demo:
+
+[![Watch the video](https://i.imgur.com/lu0AZ9S.png)](https://youtu.be/11FzNrjaJQw)
+
 # c3WaMNAa
 
 Quick start:
